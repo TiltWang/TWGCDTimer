@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TWGCDTimer'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'TWGCDTimer is a timer encapsulated by GCD.'
 
 # This description is used to generate tags and improve search results.
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = 'TWGCDTimer is a timer encapsulated by GCD.'
+  s.description      = 'TWGCDTimer is a timer encapsulated by GCD. Easy replace system timer'
 
   s.homepage         = 'https://github.com/TiltWang/TWGCDTimer'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
