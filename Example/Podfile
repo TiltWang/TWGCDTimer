@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'TWGCDTimer_Example' do
+  pod 'TWGCDTimer', :path => '../'
+
+  target 'TWGCDTimer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

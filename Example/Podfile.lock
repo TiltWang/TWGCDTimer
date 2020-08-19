@@ -1,0 +1,16 @@
+PODS:
+  - TWGCDTimer (0.1.0)
+
+DEPENDENCIES:
+  - TWGCDTimer (from `../`)
+
+EXTERNAL SOURCES:
+  TWGCDTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TWGCDTimer: 54ff45c6318560f08da810d7bb8c12c1bfdde714
+
+PODFILE CHECKSUM: 654eb0b33f0ede9c799630f06fe65bb887a5cfc3
+
+COCOAPODS: 1.9.2

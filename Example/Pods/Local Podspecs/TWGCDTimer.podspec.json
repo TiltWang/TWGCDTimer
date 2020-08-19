@@ -1,0 +1,22 @@
+{
+  "name": "TWGCDTimer",
+  "version": "0.1.0",
+  "summary": "A short description of TWGCDTimer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangxufeng092@163.com/TWGCDTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangxufeng092@163.com": "wangxufeng65180@offcn.com"
+  },
+  "source": {
+    "git": "https://github.com/wangxufeng092@163.com/TWGCDTimer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TWGCDTimer/Classes/**/*"
+}
