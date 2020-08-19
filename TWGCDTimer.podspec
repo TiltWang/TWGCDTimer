@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'TWGCDTimer is a timer encapsulated by GCD.'
 
-  s.homepage         = 'https://github.com/wangxufeng092@163.com/TWGCDTimer'
+  s.homepage         = 'https://github.com/TiltWang/TWGCDTimer'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'tiltwang' => 'wangxufeng092@163.com' }
-  s.source           = { :git => 'https://github.com/wangxufeng092@163.com/TWGCDTimer.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/TiltWang/TWGCDTimer.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
